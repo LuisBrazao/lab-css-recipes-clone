@@ -44,11 +44,15 @@ h1{
 }
 
 .cooking-img{
-    height: 80px;
-    margin-left: 200px;
+    height: 65px;
+    margin-left: 250px;
 }
 
 ul{
     list-style-type: none;
+}
+
+.directions p{
+    margin: 0px;
 }
 
